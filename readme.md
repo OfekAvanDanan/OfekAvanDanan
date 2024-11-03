@@ -11,10 +11,6 @@ I'm a creative and results-driven Computer Science student with a passion for de
 - **Programming**: C, C++, Java, Node.js, Python, SQL, MongoDB
 - **Front-end Development**: React, HTML, CSS, JavaScript, Android Studio
 - **Data Analysis**: Data Mining, Data Visualization, Statistical Analysis, Excel
-- **Design**: UI/UX Design, Motion Graphics, Graphic Design
-- **Tools & Technologies**: Git, Figma, Adobe Creative Suite, PowerPoint
-- **Soft Skills**: Problem-Solving, Communication, Teamwork, Creativity, Adaptability, Self-Learning
-- **Languages**: Hebrew (Native), English (Fluent)
 
 I enjoy turning ideas into meaningful solutions, whether it's through mobile apps, games, or web development. I'm always up for connecting and discussing ideas, projects, or just sharing experiences. Feel free to reach out!
 
