@@ -19,12 +19,8 @@ I'm a creative and results-driven Computer Science student with a passion for de
 I enjoy turning ideas into meaningful solutions, whether it's through mobile apps, games, or web development. I'm always up for connecting and discussing ideas, projects, or just sharing experiences. Feel free to reach out!
 
 Happy coding! 🚀
-
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ofek-avan-danan)
-
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=ofekavandanan&theme=dark&hide_border=false)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ofek-avan-danan-a47081139/)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ofekavandanan&icon=0&color=0)](https://visitcount.itsvg.in)
