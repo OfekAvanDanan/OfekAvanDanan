@@ -21,6 +21,3 @@ I enjoy turning ideas into meaningful solutions, whether it's through mobile app
 Happy coding! 🚀
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ofek-avan-danan-a47081139/)
-
----
-[![](https://visitcount.itsvg.in/api?id=ofekavandanan&icon=0&color=0)](https://visitcount.itsvg.in)
