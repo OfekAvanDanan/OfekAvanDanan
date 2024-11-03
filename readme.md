@@ -8,7 +8,7 @@ I'm a creative and results-driven Computer Science student with a passion for de
 
 🌱 **Always Learning**: I believe in constant growth and exploring new technologies. I enjoy challenging myself and expanding my skills in both design and development.
 
-👨‍💻 **Skills**:
+### 👨‍💻 Skills:
 - **Programming**: C, C++, Java, Node.js, Python, SQL, MongoDB
 - **Front-end Development**: React, HTML, CSS, JavaScript, Android Studio
 - **Data Analysis**: Data Mining, Data Visualization, Statistical Analysis, Excel
