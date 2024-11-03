@@ -1,5 +1,6 @@
-# 💫 About Me:
-Hi there! I'm Ofek Avan Danan 👋
+# Hello there! I'm Ofek 👋
+
+### 💫 About Me:
 
 I'm a creative and results-driven Computer Science student with a passion for design and innovation. My journey in tech has been fueled by curiosity and the desire to create impactful solutions.
 
@@ -15,5 +16,5 @@ I'm a creative and results-driven Computer Science student with a passion for de
 I enjoy turning ideas into meaningful solutions, whether it's through mobile apps, games, or web development. I'm always up for connecting and discussing ideas, projects, or just sharing experiences. Feel free to reach out!
 
 Happy coding! 🚀
-## 🌐 Socials:
+### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ofek-avan-danan-a47081139/)
